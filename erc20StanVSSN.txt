@@ -1,3 +1,36 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@andreysizyi 
+andreysizyi
+/
+ERC20
+Public
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Beta Try the new code view
+ERC20/erc20StanOSX.txt
+@andreysizyi
+andreysizyi Add files via upload
+Latest commit 09a83fa on Jul 13, 2018
+ History
+ 1 contributor
+88 lines (74 sloc)  3.02 KB
+ 
+
 pragma solidity ^0.4.11;
 
 //------------------------------------------------------------------------------------------------
@@ -86,3 +119,18 @@ contract ERC20Standard {
 		);
 
 }
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+ERC20/erc20StanOSX.txt at master · andreysizyi/ERC20
